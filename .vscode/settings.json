@@ -3,7 +3,7 @@
   "editor.tabSize": 2,
   "files.autoSave": "onFocusChange",
   "editor.cursorStyle": "line",
-  "editor.rulers": [50, 72],
+  "editor.rulers": [50, 72, 80],
   "editor.wordWrap": true,
   "editor.cursorBlinking": "smooth",
   "editor.renderWhitespace": "boundary",
